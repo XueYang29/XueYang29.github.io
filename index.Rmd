@@ -23,9 +23,9 @@ I can link directly to my [about page](about.html).
 
 Ain's she great:
 
-<img src = "images/dog.jpg" style = "width:100%">
+<img src = "images/dog.jpg" style = "width:75%">
 
 ### I can add code
 
-My code is here [code](code.Rmd)
+My code page is [here](code.Rmd)
 
