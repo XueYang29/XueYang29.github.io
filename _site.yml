@@ -13,4 +13,4 @@ navbar:
       href: http://github.com/XueYang29/
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
