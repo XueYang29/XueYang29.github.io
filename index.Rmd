@@ -27,5 +27,5 @@ Ain's she great:
 
 ### I can add code
 
-My code page is [here](code.Rmd)
+My code page is [here](code.html)
 
